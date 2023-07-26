@@ -40,6 +40,7 @@
 - ⚙️ EditorConfig - Consistent coding styles across editors and IDEs
 - 🗂 Path Mapping — Import components or images using the `@` prefix
 
+
 ## Quick Start
 
 The best way to start with this template is using [Create Next App](https://nextjs.org/docs/api-reference/create-next-app).
